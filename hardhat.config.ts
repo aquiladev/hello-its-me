@@ -18,6 +18,18 @@ const config: HardhatUserConfig = {
         : undefined,
       timeout: 120000,
     },
+    coreTestnet: {
+      url: "https://rpc.test.btcs.network",
+      hardfork: "istanbul",
+      blockGasLimit: 8000000,
+      gasMultiplier: 5,
+      gasPrice: 1 * GWEI,
+      chainId: 1115,
+      accounts: process.env.TT_TESTNET_PRIVATE_KEY
+        ? [process.env.TT_TESTNET_PRIVATE_KEY]
+        : undefined,
+      timeout: 120000,
+    },
   },
 };
 
