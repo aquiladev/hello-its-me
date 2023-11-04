@@ -2,6 +2,8 @@
 
 [ETHLisbon](https://ethlisbon.org/) project
 
+[![Watch the video](https://i9.ytimg.com/vi/xAbncgDglkI/mq1.jpg?sqp=CLT7mqoG-oaymwEmCMACELQB8quKqQMa8AEB-AGuBoAC4AOKAgwIABABGD8gYChyMA8=&rs=AOn4CLCtM7GgTJm0cG7BCvVI05YBCfpa6Q)](https://youtu.be/xAbncgDglkI)
+
 ## [Bounties](https://eth-lisbon.notion.site/Bounties-6c70204086d846e49ee14c34b4856b81)
 - Polygon
     - Bounty #2 - Polygon zkEVM Defi Challenge
@@ -13,7 +15,7 @@
 
 ## Chronicle integration
 The protocol uses Chronicle Oracle for reserves on Polygon zkEVM Testnet
->> [ChroniclePriceFeed](https://github.com/aquiladev/hello-its-me/blob/main/contracts/misc/ChroniclePriceFeed.sol)
+> [ChroniclePriceFeed](https://github.com/aquiladev/hello-its-me/blob/main/contracts/misc/ChroniclePriceFeed.sol)
 
 ## Polygon zkEVM Testnet deployment
 
