@@ -9,6 +9,12 @@
     - Bounty #1 - Most Innovative Chronicle Oracle Integration
     - Bounty #2 - Integrate a Chronicle Oracle
     - Bounty #3 - Build with a Chronicle Oracle on The Polyogon zkEVM
+- CoreDAO
+    - Bounty #1 - Build on Core
+
+## Chronicle integration
+The protocol uses Chronicle Oracle for reserves on Polygon zkEVM Testnet
+>> [ChroniclePriceFeed](https://github.com/aquiladev/hello-its-me/blob/main/contracts/misc/ChroniclePriceFeed.sol)
 
 ## Polygon zkEVM Testnet deployment
 
@@ -18,6 +24,7 @@ Reserves:
 - WETH - 0xe911c4A3A56bb6Dd51f4fA65DFeA9A58E6DCcBC4
 
 Deployer: [0x83AD6258691d485139b20998c2BE2c6120Fca06A](https://testnet-zkevm.polygonscan.com/address/0x83ad6258691d485139b20998c2be2c6120fca06a)
+
 
 ```
 LendingPoolAddressesProviderRegistry: 0x95F9A593a2097ED3C76BC366C2A75602d0af98bB
@@ -61,3 +68,4 @@ LendingPoolCollateralManagerImpl: 0x05534568115c73fA1287d58d1988630D8cD58128
 WalletBalanceProvider: 0xeA8f598DDbef5F13CF72c66A597a5CB6E920DE4b
 UiPoolDataProvider: 0xFB63738615Acf806799AA4a50DD9787df656179e 
 ```
+
