@@ -16,6 +16,8 @@
 ## Chronicle integration
 The protocol uses Chronicle Oracle for reserves on Polygon zkEVM Testnet
 > [ChroniclePriceFeed](https://github.com/aquiladev/hello-its-me/blob/main/contracts/misc/ChroniclePriceFeed.sol)
+>
+> 0x13482369bCaa250CBb31eEF8Ff89d1bf4E4158A4
 
 ## Polygon zkEVM Testnet deployment
 
