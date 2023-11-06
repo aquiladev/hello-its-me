@@ -19,6 +19,8 @@ The protocol uses Chronicle Oracle for reserves on Polygon zkEVM Testnet
 >
 > 0x13482369bCaa250CBb31eEF8Ff89d1bf4E4158A4
 
+https://testnet-zkevm.polygonscan.com/address/0x13482369bCaa250CBb31eEF8Ff89d1bf4E4158A4#code
+
 ## Polygon zkEVM Testnet deployment
 
 Reserves:
